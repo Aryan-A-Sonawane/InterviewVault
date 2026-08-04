@@ -342,5 +342,3 @@ npm run build
 MIT License — see [LICENSE](LICENSE) for details.
 
 ---
-
-<p align="center">Built with ❤️ using Gemini AI · FastAPI · React 19 · Tailwind CSS v4</p>
